@@ -1,0 +1,1408 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+0061
+***************STATISTICS******************
+Safe : 162282
+Contamined : 1824977
+Recovered : 10542
+Dead : 2199
+
+real	275m0,686s
+user	272m23,736s
+sys	2m16,821s
+0090
+***************STATISTICS******************
+Safe : 164283
+Contamined : 1823347
+Recovered : 10294
+Dead : 2076
+
+real	275m2,429s
+user	273m58,917s
+sys	1m2,410s
+0044
+***************STATISTICS******************
+Safe : 163019
+Contamined : 1824149
+Recovered : 10578
+Dead : 2254
+
+real	275m14,627s
+user	273m24,373s
+sys	1m3,538s
+0116
+***************STATISTICS******************
+Safe : 164512
+Contamined : 1822754
+Recovered : 10471
+Dead : 2263
+
+real	275m41,779s
+user	274m0,887s
+sys	1m4,925s
+0036
+***************STATISTICS******************
+Safe : 163026
+Contamined : 1824055
+Recovered : 10677
+Dead : 2242
+
+real	275m42,726s
+user	272m31,062s
+sys	2m28,181s
+0027
+***************STATISTICS******************
+Safe : 162409
+Contamined : 1824739
+Recovered : 10676
+Dead : 2176
+
+real	275m50,657s
+user	274m57,835s
+sys	0m51,943s
+0080
+***************STATISTICS******************
+Safe : 163320
+Contamined : 1823911
+Recovered : 10541
+Dead : 2228
+
+real	275m54,010s
+user	275m13,425s
+sys	0m39,679s
+0092
+***************STATISTICS******************
+Safe : 164574
+Contamined : 1823076
+Recovered : 10178
+Dead : 2172
+
+real	275m58,027s
+user	275m19,838s
+sys	0m36,418s
+0089
+***************STATISTICS******************
+Safe : 163151
+Contamined : 1823879
+Recovered : 10707
+Dead : 2263
+
+real	275m58,309s
+user	275m23,051s
+sys	0m34,451s
+0013
+***************STATISTICS******************
+Safe : 163808
+Contamined : 1823670
+Recovered : 10374
+Dead : 2148
+
+real	276m0,887s
+user	274m50,633s
+sys	1m9,005s
+0113
+***************STATISTICS******************
+Safe : 162594
+Contamined : 1824237
+Recovered : 10837
+Dead : 2332
+
+real	276m2,743s
+user	274m14,553s
+sys	0m52,574s
+0025
+***************STATISTICS******************
+Safe : 163855
+Contamined : 1823546
+Recovered : 10415
+Dead : 2184
+
+real	276m6,801s
+user	275m29,522s
+sys	0m36,411s
+0073
+***************STATISTICS******************
+Safe : 163891
+Contamined : 1823570
+Recovered : 10406
+Dead : 2133
+
+real	276m8,011s
+user	275m27,823s
+sys	0m38,114s
+0079
+***************STATISTICS******************
+Safe : 163455
+Contamined : 1823517
+Recovered : 10785
+Dead : 2243
+
+real	276m13,376s
+user	275m34,108s
+sys	0m37,718s
+0093
+***************STATISTICS******************
+Safe : 163036
+Contamined : 1824319
+Recovered : 10481
+Dead : 2164
+
+real	276m14,742s
+user	275m31,006s
+sys	0m42,667s
+0026
+***************STATISTICS******************
+Safe : 165264
+Contamined : 1822667
+Recovered : 9982
+Dead : 2087
+
+real	276m15,982s
+user	275m36,087s
+sys	0m39,043s
+0077
+***************STATISTICS******************
+Safe : 162336
+Contamined : 1824480
+Recovered : 10919
+Dead : 2265
+
+real	276m17,522s
+user	275m20,482s
+sys	0m55,962s
+0009
+***************STATISTICS******************
+Safe : 162845
+Contamined : 1824247
+Recovered : 10733
+Dead : 2175
+
+real	276m17,591s
+user	275m11,479s
+sys	1m4,081s
+0088
+***************STATISTICS******************
+Safe : 163239
+Contamined : 1823804
+Recovered : 10751
+Dead : 2206
+
+real	276m20,020s
+user	275m34,654s
+sys	0m44,535s
+0001
+***************STATISTICS******************
+Safe : 163379
+Contamined : 1823696
+Recovered : 10667
+Dead : 2258
+
+real	276m20,664s
+user	275m16,129s
+sys	1m3,210s
+0108
+***************STATISTICS******************
+Safe : 165910
+Contamined : 1821949
+Recovered : 10062
+Dead : 2079
+
+real	276m22,842s
+user	274m54,005s
+sys	0m56,300s
+0038
+***************STATISTICS******************
+Safe : 162892
+Contamined : 1824012
+Recovered : 10756
+Dead : 2340
+
+real	276m25,046s
+user	274m2,417s
+sys	1m34,982s
+0010
+***************STATISTICS******************
+Safe : 163732
+Contamined : 1823454
+Recovered : 10607
+Dead : 2207
+
+real	276m25,247s
+user	275m6,699s
+sys	1m17,714s
+0096
+***************STATISTICS******************
+Safe : 162709
+Contamined : 1824135
+Recovered : 10899
+Dead : 2257
+
+real	276m25,832s
+user	274m49,834s
+sys	0m58,113s
+0016
+***************STATISTICS******************
+Safe : 163542
+Contamined : 1823674
+Recovered : 10591
+Dead : 2193
+
+real	276m26,292s
+user	275m24,933s
+sys	1m0,069s
+0054
+***************STATISTICS******************
+Safe : 163829
+Contamined : 1823615
+Recovered : 10364
+Dead : 2192
+
+real	276m26,346s
+user	274m49,623s
+sys	1m11,723s
+0082
+***************STATISTICS******************
+Safe : 164273
+Contamined : 1822945
+Recovered : 10559
+Dead : 2223
+
+real	276m26,915s
+user	274m55,706s
+sys	1m28,429s
+0029
+***************STATISTICS******************
+Safe : 162595
+Contamined : 1824408
+Recovered : 10689
+Dead : 2308
+
+real	276m27,879s
+user	275m40,175s
+sys	0m46,643s
+0049
+***************STATISTICS******************
+Safe : 164609
+Contamined : 1822781
+Recovered : 10427
+Dead : 2183
+0107
+***************STATISTICS******************
+Safe : 162984
+Contamined : 1824301
+Recovered : 10558
+Dead : 2157
+
+real	276m28,831s
+user	274m22,136s
+sys	0m55,882s
+
+real	276m28,831s
+user	274m41,139s
+sys	1m21,738s
+0120
+***************STATISTICS******************
+Safe : 163966
+Contamined : 1823419
+Recovered : 10464
+Dead : 2151
+
+real	276m30,361s
+user	274m56,883s
+sys	0m56,415s
+0056
+***************STATISTICS******************
+Safe : 163510
+Contamined : 1823704
+Recovered : 10569
+Dead : 2217
+
+real	276m30,863s
+user	274m44,031s
+sys	1m2,732s
+0059
+***************STATISTICS******************
+Safe : 166137
+Contamined : 1821886
+Recovered : 9971
+Dead : 2006
+
+real	276m31,539s
+user	275m10,717s
+sys	1m7,094s
+0021
+***************STATISTICS******************
+Safe : 163045
+Contamined : 1823869
+Recovered : 10829
+Dead : 2257
+
+real	276m33,315s
+user	275m27,025s
+sys	1m4,527s
+0117
+***************STATISTICS******************
+Safe : 163838
+Contamined : 1823625
+Recovered : 10335
+Dead : 2202
+
+real	276m33,372s
+user	274m23,031s
+sys	1m26,435s
+0072
+***************STATISTICS******************
+Safe : 164838
+Contamined : 1822927
+Recovered : 10093
+Dead : 2142
+
+real	276m36,029s
+user	275m58,013s
+sys	0m37,047s
+0091
+***************STATISTICS******************
+Safe : 162271
+Contamined : 1824464
+Recovered : 10937
+Dead : 2328
+
+real	276m36,257s
+user	275m43,488s
+sys	0m51,947s
+0125
+***************STATISTICS******************
+Safe : 162831
+Contamined : 1824209
+Recovered : 10772
+Dead : 2188
+
+real	276m36,808s
+user	275m6,988s
+sys	1m12,773s
+0075
+***************STATISTICS******************
+Safe : 162484
+Contamined : 1824281
+Recovered : 10870
+Dead : 2365
+
+real	276m37,163s
+user	275m14,920s
+sys	1m21,338s
+0028
+***************STATISTICS******************
+Safe : 162330
+Contamined : 1824510
+Recovered : 10954
+Dead : 2206
+
+real	276m37,455s
+user	275m32,300s
+sys	1m2,810s
+0122
+***************STATISTICS******************
+Safe : 163517
+Contamined : 1823593
+Recovered : 10663
+Dead : 2227
+
+real	276m39,381s
+user	275m18,466s
+sys	0m44,738s
+0031
+***************STATISTICS******************
+Safe : 162957
+Contamined : 1824259
+Recovered : 10585
+Dead : 2199
+
+real	276m39,916s
+user	274m56,342s
+sys	1m42,291s
+0030
+***************STATISTICS******************
+Safe : 163064
+Contamined : 1824316
+Recovered : 10417
+Dead : 2203
+
+real	276m40,549s
+user	275m55,541s
+sys	0m43,846s
+0052
+***************STATISTICS******************
+Safe : 165551
+Contamined : 1822071
+Recovered : 10233
+Dead : 2145
+
+real	276m40,817s
+user	274m26,620s
+sys	1m27,096s
+0020
+***************STATISTICS******************
+Safe : 162306
+Contamined : 1824681
+Recovered : 10733
+Dead : 2280
+
+real	276m41,395s
+user	275m52,529s
+sys	0m47,907s
+0078
+***************STATISTICS******************
+Safe : 163098
+Contamined : 1824237
+Recovered : 10504
+Dead : 2161
+
+real	276m41,618s
+user	276m5,172s
+sys	0m34,180s
+0111
+***************STATISTICS******************
+Safe : 164207
+Contamined : 1823204
+Recovered : 10431
+Dead : 2158
+
+real	276m41,977s
+user	275m28,182s
+sys	0m50,749s
+0012
+***************STATISTICS******************
+Safe : 164212
+Contamined : 1822906
+Recovered : 10645
+Dead : 2237
+
+real	276m42,478s
+user	275m43,912s
+sys	0m55,271s
+0033
+***************STATISTICS******************
+Safe : 163260
+Contamined : 1823938
+Recovered : 10608
+Dead : 2194
+
+real	276m43,028s
+user	274m44,069s
+sys	1m7,211s
+0047
+***************STATISTICS******************
+Safe : 163386
+Contamined : 1823889
+Recovered : 10547
+Dead : 2178
+
+real	276m43,089s
+user	274m48,088s
+sys	1m26,247s
+0057
+***************STATISTICS******************
+Safe : 162204
+Contamined : 1824899
+Recovered : 10684
+Dead : 2213
+
+real	276m43,150s
+user	274m38,465s
+sys	1m17,429s
+0112
+***************STATISTICS******************
+Safe : 163322
+Contamined : 1823689
+Recovered : 10714
+Dead : 2275
+
+real	276m43,779s
+user	274m7,989s
+sys	1m9,225s
+0008
+***************STATISTICS******************
+Safe : 164617
+Contamined : 1822714
+Recovered : 10511
+Dead : 2158
+
+real	276m44,299s
+user	276m0,706s
+sys	0m42,491s
+0124
+***************STATISTICS******************
+Safe : 163563
+Contamined : 1823687
+Recovered : 10539
+Dead : 2211
+
+real	276m45,126s
+user	273m27,038s
+sys	1m19,394s
+0076
+***************STATISTICS******************
+Safe : 162620
+Contamined : 1824387
+Recovered : 10726
+Dead : 2267
+
+real	276m45,498s
+user	275m9,260s
+sys	1m34,187s
+0051
+***************STATISTICS******************
+Safe : 163240
+Contamined : 1823896
+Recovered : 10675
+Dead : 2189
+
+real	276m46,458s
+user	274m40,868s
+sys	0m47,537s
+0105
+***************STATISTICS******************
+Safe : 162919
+Contamined : 1824121
+Recovered : 10741
+Dead : 2219
+
+real	276m46,844s
+user	275m3,956s
+sys	1m6,663s
+0074
+***************STATISTICS******************
+Safe : 163825
+Contamined : 1823502
+Recovered : 10532
+Dead : 2141
+
+real	276m46,926s
+user	276m6,039s
+sys	0m40,107s
+0041
+***************STATISTICS******************
+Safe : 165699
+Contamined : 1822209
+Recovered : 10029
+Dead : 2063
+
+real	276m47,066s
+user	275m16,937s
+sys	0m48,210s
+0017
+***************STATISTICS******************
+Safe : 162695
+Contamined : 1824347
+Recovered : 10722
+Dead : 2236
+
+real	276m47,930s
+user	275m16,070s
+sys	1m31,006s
+0104
+***************STATISTICS******************
+Safe : 162926
+Contamined : 1824149
+Recovered : 10649
+Dead : 2276
+
+real	276m48,385s
+user	274m51,018s
+sys	0m59,868s
+0018
+***************STATISTICS******************
+Safe : 163835
+Contamined : 1823599
+Recovered : 10346
+Dead : 2220
+
+real	276m48,724s
+user	275m59,492s
+sys	0m47,174s
+0053
+***************STATISTICS******************
+Safe : 162200
+Contamined : 1824873
+Recovered : 10751
+Dead : 2176
+
+real	276m48,946s
+user	274m48,767s
+sys	1m7,442s
+0126
+***************STATISTICS******************
+Safe : 161710
+Contamined : 1825251
+Recovered : 10764
+Dead : 2275
+
+real	276m49,175s
+user	274m59,125s
+sys	1m37,489s
+0114
+***************STATISTICS******************
+Safe : 162357
+Contamined : 1824577
+Recovered : 10783
+Dead : 2283
+
+real	276m49,366s
+user	274m25,783s
+sys	1m2,689s
+0121
+***************STATISTICS******************
+Safe : 163967
+Contamined : 1823642
+Recovered : 10314
+Dead : 2077
+
+real	276m50,201s
+user	275m26,130s
+sys	1m12,600s
+0094
+***************STATISTICS******************
+Safe : 163025
+Contamined : 1824253
+Recovered : 10515
+Dead : 2207
+
+real	276m50,815s
+user	276m6,911s
+sys	0m42,831s
+0014
+***************STATISTICS******************
+Safe : 163959
+Contamined : 1823430
+Recovered : 10469
+Dead : 2142
+
+real	276m50,968s
+user	275m44,522s
+sys	1m3,759s
+0095
+***************STATISTICS******************
+Safe : 160383
+Contamined : 1826471
+Recovered : 10856
+Dead : 2290
+
+real	276m52,379s
+user	276m11,430s
+sys	0m39,763s
+0024
+***************STATISTICS******************
+Safe : 164592
+Contamined : 1822739
+Recovered : 10487
+Dead : 2182
+
+real	276m53,224s
+user	275m27,535s
+sys	1m24,196s
+0084
+***************STATISTICS******************
+Safe : 162213
+Contamined : 1824731
+Recovered : 10801
+Dead : 2255
+
+real	276m53,917s
+user	276m1,376s
+sys	0m51,683s
+0022
+***************STATISTICS******************
+Safe : 163570
+Contamined : 1823764
+Recovered : 10516
+Dead : 2150
+
+real	276m54,388s
+user	276m15,517s
+sys	0m38,007s
+0011
+***************STATISTICS******************
+Safe : 163526
+Contamined : 1823874
+Recovered : 10408
+Dead : 2192
+
+real	276m55,062s
+user	276m9,596s
+sys	0m44,623s
+0040
+***************STATISTICS******************
+Safe : 163485
+Contamined : 1823939
+Recovered : 10390
+Dead : 2186
+
+real	276m55,842s
+user	274m37,004s
+sys	1m11,516s
+0065
+***************STATISTICS******************
+Safe : 162483
+Contamined : 1824296
+Recovered : 10954
+Dead : 2267
+
+real	276m56,331s
+user	276m16,042s
+sys	0m39,399s
+0006
+***************STATISTICS******************
+Safe : 163064
+Contamined : 1824153
+Recovered : 10523
+Dead : 2260
+
+real	276m56,561s
+user	276m11,622s
+sys	0m44,135s
+0023
+***************STATISTICS******************
+Safe : 163854
+Contamined : 1823528
+Recovered : 10441
+Dead : 2177
+0115
+***************STATISTICS******************
+Safe : 165072
+Contamined : 1822259
+Recovered : 10460
+Dead : 2209
+
+real	276m57,182s
+user	275m47,587s
+sys	1m7,635s
+
+real	276m57,202s
+user	275m12,329s
+sys	0m51,566s
+0037
+***************STATISTICS******************
+Safe : 163312
+Contamined : 1824011
+Recovered : 10556
+Dead : 2121
+0005
+***************STATISTICS******************
+Safe : 163552
+Contamined : 1823884
+Recovered : 10465
+Dead : 2099
+
+real	276m57,688s
+user	275m2,023s
+sys	1m12,056s
+
+real	276m57,732s
+user	276m11,409s
+sys	0m45,371s
+0118
+***************STATISTICS******************
+Safe : 162991
+Contamined : 1824082
+Recovered : 10716
+Dead : 2211
+
+real	276m58,046s
+user	275m17,643s
+sys	1m20,534s
+0085
+***************STATISTICS******************
+Safe : 162680
+Contamined : 1824591
+Recovered : 10572
+Dead : 2157
+
+real	276m58,487s
+user	275m18,034s
+sys	1m39,216s
+0042
+***************STATISTICS******************
+Safe : 161747
+Contamined : 1825763
+Recovered : 10300
+Dead : 2190
+
+real	276m59,134s
+user	274m47,596s
+sys	1m47,433s
+0060
+***************STATISTICS******************
+Safe : 163283
+Contamined : 1823740
+Recovered : 10816
+Dead : 2161
+
+real	276m59,731s
+user	274m36,276s
+sys	1m9,942s
+0081
+***************STATISTICS******************
+Safe : 163966
+Contamined : 1823440
+Recovered : 10438
+Dead : 2156
+
+real	276m59,861s
+user	276m24,424s
+sys	0m34,639s
+0055
+***************STATISTICS******************
+Safe : 163411
+Contamined : 1824026
+Recovered : 10372
+Dead : 2191
+
+real	277m0,102s
+user	275m23,090s
+sys	1m6,752s
+0063
+***************STATISTICS******************
+Safe : 164941
+Contamined : 1822677
+Recovered : 10190
+Dead : 2192
+
+real	277m0,640s
+user	275m2,039s
+sys	1m41,644s
+0069
+***************STATISTICS******************
+Safe : 163010
+Contamined : 1824270
+Recovered : 10536
+Dead : 2184
+
+real	277m0,744s
+user	276m13,760s
+sys	0m46,179s
+0086
+***************STATISTICS******************
+Safe : 164046
+Contamined : 1823468
+Recovered : 10374
+Dead : 2112
+
+real	277m0,934s
+user	276m10,324s
+sys	0m49,759s
+0083
+***************STATISTICS******************
+Safe : 163726
+Contamined : 1823433
+Recovered : 10575
+Dead : 2266
+
+real	277m1,537s
+user	276m10,455s
+sys	0m50,240s
+0100
+***************STATISTICS******************
+Safe : 165050
+Contamined : 1822603
+Recovered : 10224
+Dead : 2123
+
+real	277m1,877s
+user	275m11,922s
+sys	1m16,469s
+0035
+***************STATISTICS******************
+Safe : 163258
+Contamined : 1823890
+Recovered : 10669
+Dead : 2183
+
+real	277m2,060s
+user	274m51,016s
+sys	1m42,317s
+0103
+***************STATISTICS******************
+Safe : 162493
+Contamined : 1824225
+Recovered : 11012
+Dead : 2270
+
+real	277m2,127s
+user	275m32,032s
+sys	0m50,572s
+0123
+***************STATISTICS******************
+Safe : 163713
+Contamined : 1823683
+Recovered : 10453
+Dead : 2151
+
+real	277m4,041s
+user	275m5,218s
+sys	1m48,600s
+0064
+***************STATISTICS******************
+Safe : 162672
+Contamined : 1824650
+Recovered : 10429
+Dead : 2249
+
+real	277m5,221s
+user	275m53,888s
+sys	1m9,809s
+0058
+***************STATISTICS******************
+Safe : 164471
+Contamined : 1823026
+Recovered : 10339
+Dead : 2164
+
+real	277m5,446s
+user	275m9,278s
+sys	0m51,805s
+0102
+***************STATISTICS******************
+Safe : 163887
+Contamined : 1823463
+Recovered : 10464
+Dead : 2186
+
+real	277m5,993s
+user	274m16,475s
+sys	2m6,163s
+0099
+***************STATISTICS******************
+Safe : 161955
+Contamined : 1824916
+Recovered : 10872
+Dead : 2257
+
+real	277m6,265s
+user	275m6,056s
+sys	1m36,116s
+0127
+***************STATISTICS******************
+Safe : 163510
+Contamined : 1823795
+Recovered : 10453
+Dead : 2242
+
+real	277m6,583s
+user	275m33,447s
+sys	1m17,569s
+0032
+***************STATISTICS******************
+Safe : 162703
+Contamined : 1824032
+Recovered : 10999
+Dead : 2266
+
+real	277m7,463s
+user	275m29,232s
+sys	0m49,821s
+0068
+***************STATISTICS******************
+Safe : 163362
+Contamined : 1823910
+Recovered : 10514
+Dead : 2214
+
+real	277m8,176s
+user	276m17,262s
+sys	0m38,579s
+0097
+***************STATISTICS******************
+Safe : 163413
+Contamined : 1823713
+Recovered : 10685
+Dead : 2189
+
+real	277m8,699s
+user	275m22,049s
+sys	1m22,718s
+0070
+***************STATISTICS******************
+Safe : 163458
+Contamined : 1823908
+Recovered : 10507
+Dead : 2127
+
+real	277m8,801s
+user	276m8,501s
+sys	0m59,495s
+0050
+***************STATISTICS******************
+Safe : 163942
+Contamined : 1823425
+Recovered : 10400
+Dead : 2233
+
+real	277m8,848s
+user	274m17,886s
+sys	1m13,755s
+0098
+***************STATISTICS******************
+Safe : 161844
+Contamined : 1824902
+Recovered : 10876
+Dead : 2378
+
+real	277m9,087s
+user	275m47,349s
+sys	0m50,935s
+0048
+***************STATISTICS******************
+Safe : 164458
+Contamined : 1823110
+Recovered : 10302
+Dead : 2130
+
+real	277m10,627s
+user	274m14,482s
+sys	1m23,362s
+0101
+***************STATISTICS******************
+Safe : 161865
+Contamined : 1825079
+Recovered : 10789
+Dead : 2267
+
+real	277m10,853s
+user	274m45,224s
+sys	1m25,124s
+0045
+***************STATISTICS******************
+Safe : 163073
+Contamined : 1823875
+Recovered : 10851
+Dead : 2201
+
+real	277m11,136s
+user	275m2,749s
+sys	1m31,411s
+0109
+***************STATISTICS******************
+Safe : 163201
+Contamined : 1824070
+Recovered : 10510
+Dead : 2219
+
+real	277m13,421s
+user	275m28,344s
+sys	1m18,672s
+0002
+***************STATISTICS******************
+Safe : 163434
+Contamined : 1823947
+Recovered : 10422
+Dead : 2197
+
+real	277m13,761s
+user	275m47,044s
+sys	1m23,729s
+0046
+***************STATISTICS******************
+Safe : 161822
+Contamined : 1824820
+Recovered : 11050
+Dead : 2308
+0043
+***************STATISTICS******************
+Safe : 163763
+Contamined : 1823522
+Recovered : 10550
+Dead : 2165
+
+real	277m13,827s
+user	274m27,585s
+sys	2m7,749s
+
+real	277m13,835s
+user	275m16,020s
+sys	1m25,804s
+0062
+***************STATISTICS******************
+Safe : 163165
+Contamined : 1823943
+Recovered : 10597
+Dead : 2295
+
+real	277m14,291s
+user	275m56,634s
+sys	1m4,017s
+0067
+***************STATISTICS******************
+Safe : 165168
+Contamined : 1822670
+Recovered : 10015
+Dead : 2147
+
+real	277m15,088s
+user	276m33,785s
+sys	0m36,869s
+0019
+***************STATISTICS******************
+Safe : 162208
+Contamined : 1824639
+Recovered : 10833
+Dead : 2320
+
+real	277m15,592s
+user	275m25,261s
+sys	1m49,137s
+0015
+***************STATISTICS******************
+Safe : 164068
+Contamined : 1823560
+Recovered : 10262
+Dead : 2110
+
+real	277m16,343s
+user	273m52,591s
+sys	3m21,960s
+0119
+***************STATISTICS******************
+Safe : 163905
+Contamined : 1822996
+Recovered : 10826
+Dead : 2273
+
+real	277m17,476s
+user	273m55,629s
+sys	2m55,311s
+0106
+***************STATISTICS******************
+Safe : 162025
+Contamined : 1824958
+Recovered : 10772
+Dead : 2245
+
+real	277m17,639s
+user	275m36,813s
+sys	1m26,739s
+0000
+***************STATISTICS******************
+Safe : 164675
+Contamined : 1822713
+Recovered : 10512
+Dead : 2100
+
+real	277m19,221s
+user	275m58,736s
+sys	1m9,469s
+0087
+***************STATISTICS******************
+Safe : 164236
+Contamined : 1822890
+Recovered : 10631
+Dead : 2243
+
+real	277m20,826s
+user	275m36,074s
+sys	1m41,584s
+0071
+***************STATISTICS******************
+Safe : 163503
+Contamined : 1823673
+Recovered : 10680
+Dead : 2144
+
+real	277m21,322s
+user	276m32,262s
+sys	0m48,211s
+0110
+***************STATISTICS******************
+Safe : 163756
+Contamined : 1823753
+Recovered : 10335
+Dead : 2156
+
+real	277m23,566s
+user	275m16,882s
+sys	1m36,286s
+0003
+***************STATISTICS******************
+Safe : 163978
+Contamined : 1823459
+Recovered : 10370
+Dead : 2193
+
+real	277m23,737s
+user	275m47,363s
+sys	1m27,517s
+0039
+***************STATISTICS******************
+Safe : 164591
+Contamined : 1823172
+Recovered : 10147
+Dead : 2090
+
+real	277m24,194s
+user	275m49,611s
+sys	0m51,135s
+0034
+***************STATISTICS******************
+Safe : 164296
+Contamined : 1823242
+Recovered : 10336
+Dead : 2126
+
+real	277m24,388s
+user	275m3,525s
+sys	1m40,707s
+0004
+***************STATISTICS******************
+Safe : 164310
+Contamined : 1823077
+Recovered : 10363
+Dead : 2250
+
+real	277m25,377s
+user	276m2,239s
+sys	1m21,593s
+0066
+***************STATISTICS******************
+Safe : 161514
+Contamined : 1825480
+Recovered : 10769
+Dead : 2237
+
+real	277m32,569s
+user	276m30,167s
+sys	0m58,447s
+0007
+***************STATISTICS******************
+Safe : 163193
+Contamined : 1823994
+Recovered : 10531
+Dead : 2282
+
+real	277m40,679s
+user	276m46,059s
+sys	0m53,739s

@@ -1,0 +1,1536 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.63, 'WALL': 15.629999998956919, 'NORM': 15.99488163787588, 'UNIT': 'DB12'}
+
+real	0m31,729s
+user	0m31,288s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.64, 'WALL': 15.640000000596046, 'NORM': 15.9846547314578, 'UNIT': 'DB12'}
+
+real	0m31,766s
+user	0m31,347s
+sys	0m0,004s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.680000000000001, 'WALL': 15.679999999701977, 'NORM': 15.943877551020407, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m31,804s
+user	0m31,365s
+sys	0m0,008s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.69, 'WALL': 15.690000001341105, 'NORM': 15.933715742511154, 'UNIT': 'DB12'}
+
+real	0m31,801s
+user	0m31,376s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.700000000000001, 'WALL': 15.700000002980232, 'NORM': 15.92356687898089, 'UNIT': 'DB12'}
+
+real	0m31,833s
+user	0m31,396s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.729999999999999, 'WALL': 15.730000000447035, 'NORM': 15.89319771137953, 'UNIT': 'DB12'}
+
+real	0m31,845s
+user	0m31,412s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.69, 'WALL': 15.690000001341105, 'NORM': 15.933715742511154, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.719999999999999, 'WALL': 15.70999999716878, 'NORM': 15.903307888040713, 'UNIT': 'DB12'}
+
+real	0m31,860s
+user	0m31,423s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.700000000000003, 'WALL': 15.699999999254942, 'NORM': 15.923566878980889, 'UNIT': 'DB12'}
+
+real	0m31,861s
+user	0m31,434s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m31,858s
+user	0m31,382s
+sys	0m0,016s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.72, 'WALL': 15.719999998807907, 'NORM': 15.903307888040711, 'UNIT': 'DB12'}
+
+real	0m31,884s
+user	0m31,446s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.73, 'WALL': 15.730000000447035, 'NORM': 15.893197711379528, 'UNIT': 'DB12'}
+
+real	0m31,898s
+user	0m31,464s
+sys	0m0,020s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.670000000000003, 'WALL': 15.669999998062849, 'NORM': 15.954052329291637, 'UNIT': 'DB12'}
+
+real	0m31,911s
+user	0m31,431s
+sys	0m0,016s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.709999999999999, 'WALL': 15.71000000089407, 'NORM': 15.91343093570974, 'UNIT': 'DB12'}
+
+real	0m31,926s
+user	0m31,503s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.750000000000002, 'WALL': 15.75, 'NORM': 15.873015873015872, 'UNIT': 'DB12'}
+
+real	0m31,949s
+user	0m31,517s
+sys	0m0,004s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.749999999999998, 'WALL': 15.780000001192093, 'NORM': 15.873015873015875, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m31,973s
+user	0m31,505s
+sys	0m0,004s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.780000000000001, 'WALL': 15.780000001192093, 'NORM': 15.842839036755386, 'UNIT': 'DB12'}
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.8, 'WALL': 15.800000000745058, 'NORM': 15.822784810126581, 'UNIT': 'DB12'}
+
+real	0m31,991s
+user	0m31,559s
+sys	0m0,008s
+
+real	0m32,001s
+user	0m31,600s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.770000000000003, 'WALL': 15.769999999552965, 'NORM': 15.852885225110967, 'UNIT': 'DB12'}
+
+real	0m31,999s
+user	0m31,565s
+sys	0m0,016s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.780000000000003, 'WALL': 15.780000001192093, 'NORM': 15.842839036755384, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.730000000000002, 'WALL': 15.780000001192093, 'NORM': 15.893197711379527, 'UNIT': 'DB12'}
+
+real	0m32,012s
+user	0m31,510s
+sys	0m0,012s
+
+real	0m32,023s
+user	0m31,583s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.77, 'WALL': 15.769999999552965, 'NORM': 15.85288522511097, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,029s
+user	0m31,600s
+sys	0m0,008s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.820000000000004, 'WALL': 15.820000000298023, 'NORM': 15.80278128950695, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.79, 'WALL': 15.78999999910593, 'NORM': 15.832805573147562, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.800000000000002, 'WALL': 15.78999999910593, 'NORM': 15.82278481012658, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,034s
+user	0m31,610s
+sys	0m0,012s
+
+real	0m32,028s
+user	0m31,596s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+sys	0m0,020s
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.799999999999999, 'WALL': 15.809999998658895, 'NORM': 15.822784810126583, 'UNIT': 'DB12'}
+
+real	0m32,040s
+user	0m31,610s
+sys	0m0,016s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.8, 'WALL': 15.800000000745058, 'NORM': 15.822784810126581, 'UNIT': 'DB12'}
+
+real	0m32,047s
+user	0m31,623s
+sys	0m0,004s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.820000000000002, 'WALL': 15.830000001937151, 'NORM': 15.802781289506951, 'UNIT': 'DB12'}
+
+real	0m32,055s
+user	0m31,626s
+sys	0m0,012s
+
+real	0m32,068s
+user	0m31,631s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.84, 'WALL': 15.839999999850988, 'NORM': 15.782828282828284, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.810000000000002, 'WALL': 15.820000000298023, 'NORM': 15.81277672359266, 'UNIT': 'DB12'}
+
+real	0m32,059s
+user	0m31,625s
+sys	0m0,004s
+
+real	0m32,082s
+user	0m31,636s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.840000000000003, 'WALL': 15.830000001937151, 'NORM': 15.78282828282828, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.85, 'WALL': 15.850000001490116, 'NORM': 15.772870662460567, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+
+real	0m32,094s
+user	0m31,628s
+sys	0m0,012s
+WARNING:root:Trying to apply a correction...
+
+real	0m32,103s
+user	0m31,664s
+sys	0m0,016s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.799999999999999, 'WALL': 15.799999997019768, 'NORM': 15.822784810126583, 'UNIT': 'DB12'}
+
+real	0m32,117s
+user	0m31,686s
+sys	0m0,004s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.84, 'WALL': 15.839999999850988, 'NORM': 15.782828282828284, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.879999999999999, 'WALL': 15.879999998956919, 'NORM': 15.743073047858942, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.84, 'WALL': 15.849999997764826, 'NORM': 15.782828282828284, 'UNIT': 'DB12'}
+
+real	0m32,127s
+user	0m31,695s
+sys	0m0,004s
+
+real	0m32,126s
+user	0m31,691s
+sys	0m0,012s
+
+real	0m32,107s
+user	0m31,661s
+sys	0m0,016s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.810000000000002, 'WALL': 15.809999998658895, 'NORM': 15.81277672359266, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,144s
+user	0m31,697s
+sys	0m0,020s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.850000000000001, 'WALL': 15.850000001490116, 'NORM': 15.772870662460566, 'UNIT': 'DB12'}
+
+real	0m32,137s
+user	0m31,688s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.87, 'WALL': 15.870000001043081, 'NORM': 15.75299306868305, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.870000000000001, 'WALL': 15.870000001043081, 'NORM': 15.752993068683049, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,157s
+user	0m31,727s
+sys	0m0,012s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.85, 'WALL': 15.859999999403954, 'NORM': 15.772870662460567, 'UNIT': 'DB12'}
+
+real	0m32,160s
+user	0m31,731s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.850000000000001, 'WALL': 15.850000001490116, 'NORM': 15.772870662460566, 'UNIT': 'DB12'}
+
+real	0m32,162s
+user	0m31,738s
+sys	0m0,009s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.889999999999999, 'WALL': 15.890000000596046, 'NORM': 15.733165512901197, 'UNIT': 'DB12'}
+
+real	0m32,183s
+user	0m31,739s
+sys	0m0,016s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.72, 'WALL': 15.719999998807907, 'NORM': 15.903307888040711, 'UNIT': 'DB12'}
+
+real	0m32,169s
+user	0m31,749s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.870000000000001, 'WALL': 15.870000001043081, 'NORM': 15.752993068683049, 'UNIT': 'DB12'}
+
+real	0m32,189s
+user	0m31,603s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Trying to apply a correction...
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.890000000000002, 'WALL': 15.879999998956919, 'NORM': 15.733165512901193, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.850000000000001, 'WALL': 15.839999999850988, 'NORM': 15.772870662460566, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,201s
+user	0m31,758s
+sys	0m0,012s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+######
+{'CPU': 15.860000000000001, 'WALL': 15.859999999403954, 'NORM': 15.762925598991172, 'UNIT': 'DB12'}
+WARNING:root:Versions available are: 3.9
+WARNING:root:Trying to apply a correction...
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.89, 'WALL': 15.889999996870756, 'NORM': 15.733165512901195, 'UNIT': 'DB12'}
+
+real	0m32,179s
+user	0m31,714s
+sys	0m0,016s
+
+real	0m32,195s
+user	0m31,737s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Trying to apply a correction...
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+######
+{'CPU': 15.910000000000004, 'WALL': 15.910000000149012, 'NORM': 15.713387806411058, 'UNIT': 'DB12'}
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Versions available are: 3.9
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.9, 'WALL': 15.899999998509884, 'NORM': 15.723270440251572, 'UNIT': 'DB12'}
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.870000000000003, 'WALL': 15.870000001043081, 'NORM': 15.752993068683047, 'UNIT': 'DB12'}
+######
+{'CPU': 15.86, 'WALL': 15.96000000089407, 'NORM': 15.762925598991174, 'UNIT': 'DB12'}
+
+real	0m32,204s
+user	0m31,767s
+sys	0m0,012s
+
+real	0m32,193s
+user	0m31,746s
+
+real	0m32,207s
+user	0m31,768s
+sys	0m0,008s
+sys	0m0,016s
+
+real	0m32,216s
+user	0m31,776s
+sys	0m0,008s
+
+real	0m32,222s
+user	0m31,790s
+sys	0m0,012s
+
+real	0m32,215s
+user	0m31,665s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.899999999999999, 'WALL': 15.899999998509884, 'NORM': 15.723270440251573, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.82, 'WALL': 15.809999998658895, 'NORM': 15.802781289506953, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.920000000000003, 'WALL': 15.919999998062849, 'NORM': 15.703517587939695, 'UNIT': 'DB12'}
+
+real	0m32,229s
+user	0m31,798s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,238s
+user	0m31,801s
+sys	0m0,008s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.910000000000002, 'WALL': 15.910000000149012, 'NORM': 15.71338780641106, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,235s
+user	0m31,796s
+sys	0m0,016s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.860000000000001, 'WALL': 15.860000003129244, 'NORM': 15.762925598991172, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.83, 'WALL': 15.830000001937151, 'NORM': 15.792798483891346, 'UNIT': 'DB12'}
+
+real	0m32,229s
+user	0m31,776s
+sys	0m0,016s
+
+real	0m32,238s
+user	0m31,785s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,252s
+user	0m31,810s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Trying to apply a correction...
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.899999999999999, 'WALL': 15.899999998509884, 'NORM': 15.723270440251573, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.920000000000003, 'WALL': 15.919999998062849, 'NORM': 15.703517587939695, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+######
+{'CPU': 15.870000000000001, 'WALL': 15.870000001043081, 'NORM': 15.752993068683049, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Versions available are: 3.9
+WARNING:root:Versions available are: 3.9
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:Trying to apply a correction...
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.860000000000003, 'WALL': 15.859999999403954, 'NORM': 15.76292559899117, 'UNIT': 'DB12'}
+######
+{'CPU': 15.89, 'WALL': 15.890000000596046, 'NORM': 15.733165512901195, 'UNIT': 'DB12'}
+######
+{'CPU': 15.89, 'WALL': 15.879999998956919, 'NORM': 15.733165512901195, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.93, 'WALL': 15.919999998062849, 'NORM': 15.693659761456372, 'UNIT': 'DB12'}
+
+real	0m32,260s
+user	0m31,823s
+sys	0m0,008s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.86, 'WALL': 15.859999999403954, 'NORM': 15.762925598991174, 'UNIT': 'DB12'}
+
+real	0m32,245s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+user	0m31,795s
+sys	0m0,012s
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+
+######
+{'CPU': 15.9, 'WALL': 15.900000002235174, 'NORM': 15.723270440251572, 'UNIT': 'DB12'}
+real	0m32,255s
+
+user	0m31,792s
+real	0m32,267s
+
+sys	0m0,016s
+user	0m31,828s
+real	0m32,263s
+sys	0m0,008s
+user	0m31,827s
+
+sys	0m0,008s
+real	0m32,252s
+user	0m31,817s
+sys	0m0,020s
+
+real	0m32,265s
+user	0m31,829s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+
+real	0m32,263s
+user	0m31,824s
+sys	0m0,012s
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.929999999999998, 'WALL': 15.929999999701977, 'NORM': 15.693659761456374, 'UNIT': 'DB12'}
+######
+{'CPU': 15.889999999999999, 'WALL': 15.879999998956919, 'NORM': 15.733165512901197, 'UNIT': 'DB12'}
+
+real	0m32,248s
+user	0m31,812s
+sys	0m0,004s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.84, 'WALL': 15.82999999821186, 'NORM': 15.782828282828284, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,269s
+user	0m31,832s
+sys	0m0,012s
+
+real	0m32,276s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Versions available are: 3.9
+WARNING:root:Versions available are: 3.9
+user	0m31,820s
+sys	0m0,004s
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:Trying to apply a correction...
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.88, 'WALL': 15.870000001043081, 'NORM': 15.74307304785894, 'UNIT': 'DB12'}
+######
+{'CPU': 15.900000000000002, 'WALL': 15.910000000149012, 'NORM': 15.72327044025157, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.890000000000002, 'WALL': 15.890000000596046, 'NORM': 15.733165512901193, 'UNIT': 'DB12'}
+
+real	0m32,282s
+user	0m31,836s
+sys	0m0,016s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.959999999999999, 'WALL': 15.969999998807907, 'NORM': 15.664160401002507, 'UNIT': 'DB12'}
+
+real	0m32,291s
+user	0m31,852s
+sys	0m0,008s
+
+real	0m32,293s
+user	0m31,836s
+sys	0m0,020s
+
+real	0m32,284s
+user	0m31,850s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.960000000000003, 'WALL': 15.969999998807907, 'NORM': 15.664160401002503, 'UNIT': 'DB12'}
+
+real	0m32,278s
+user	0m31,846s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,299s
+user	0m31,860s
+sys	0m0,016s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.940000000000001, 'WALL': 15.950000002980232, 'NORM': 15.683814303638643, 'UNIT': 'DB12'}
+
+real	0m32,311s
+user	0m31,880s
+sys	0m0,004s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.870000000000003, 'WALL': 15.870000001043081, 'NORM': 15.752993068683047, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.93, 'WALL': 15.929999999701977, 'NORM': 15.693659761456372, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.910000000000002, 'WALL': 15.919999998062849, 'NORM': 15.71338780641106, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Versions available are: 3.9
+WARNING:root:Trying to apply a correction...
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.929999999999998, 'WALL': 15.929999999701977, 'NORM': 15.693659761456374, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,305s
+user	0m31,861s
+sys	0m0,012s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Versions available are: 3.9
+WARNING:root:Trying to apply a correction...
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.96, 'WALL': 15.949999999254942, 'NORM': 15.664160401002505, 'UNIT': 'DB12'}
+
+real	0m32,318s
+user	0m31,890s
+sys	0m0,008s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+
+real	0m32,317s
+user	0m31,863s
+WARNING:root:Versions available are: 3.9
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Trying to apply a correction...
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Versions available are: 3.9
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+######
+{'CPU': 15.980000000000004, 'WALL': 15.980000000447035, 'NORM': 15.64455569461827, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+sys	0m0,008s
+WARNING:root:Trying to apply a correction...
+WARNING:root:Trying to apply a correction...
+######
+{'CPU': 15.9, 'WALL': 15.900000002235174, 'NORM': 15.723270440251572, 'UNIT': 'DB12'}
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+
+real	0m32,304s
+user	0m31,834s
+sys	0m0,028s
+WARNING:root:Trying to apply a correction...
+
+real	0m32,312s
+user	0m31,855s
+sys	0m0,020s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Trying to apply a correction...
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.920000000000003, 'WALL': 15.929999999701977, 'NORM': 15.703517587939695, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Versions available are: 3.9
+WARNING:root:Versions available are: 3.9
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.92, 'WALL': 15.92000000178814, 'NORM': 15.703517587939698, 'UNIT': 'DB12'}
+######
+{'CPU': 15.91, 'WALL': 15.910000000149012, 'NORM': 15.713387806411061, 'UNIT': 'DB12'}
+######
+{'CPU': 15.910000000000002, 'WALL': 15.900000002235174, 'NORM': 15.71338780641106, 'UNIT': 'DB12'}
+######
+{'CPU': 15.98, 'WALL': 15.980000000447035, 'NORM': 15.644555694618273, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.869999999999997, 'WALL': 15.860000003129244, 'NORM': 15.752993068683052, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+
+real	0m32,326s
+real	0m32,320s
+user	0m31,903s
+user	0m31,858s
+sys	0m0,004s
+sys	0m0,020s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+######
+{'CPU': 15.950000000000003, 'WALL': 15.949999999254942, 'NORM': 15.673981191222568, 'UNIT': 'DB12'}
+WARNING:root:Trying to apply a correction...
+
+real	0m32,322s
+user	0m31,885s
+sys	0m0,020s
+
+real	0m32,331s
+
+user	0m31,907s
+
+real	0m32,345s
+sys	0m0,008s
+real	0m32,337s
+user	0m31,899s
+user	0m31,904s
+sys	0m0,013s
+sys	0m0,008s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.95, 'WALL': 15.96000000089407, 'NORM': 15.673981191222571, 'UNIT': 'DB12'}
+
+real	0m32,344s
+
+real	0m32,333s
+user	0m31,906s
+sys	0m0,005s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+user	0m31,903s
+sys	0m0,008s
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,334s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+user	0m31,882s
+sys	0m0,016s
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.95, 'WALL': 15.96000000089407, 'NORM': 15.673981191222571, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+
+real	0m32,348s
+user	0m31,914s
+sys	0m0,004s
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:Trying to apply a correction...
+######
+{'CPU': 15.98, 'WALL': 15.980000000447035, 'NORM': 15.644555694618273, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.930000000000001, 'WALL': 15.929999999701977, 'NORM': 15.69365976145637, 'UNIT': 'DB12'}
+
+real	0m32,352s
+user	0m31,918s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,331s
+user	0m31,882s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.960000000000003, 'WALL': 15.95999999716878, 'NORM': 15.664160401002503, 'UNIT': 'DB12'}
+
+real	0m32,347s
+user	0m31,898s
+sys	0m0,016s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.98, 'WALL': 15.980000000447035, 'NORM': 15.644555694618273, 'UNIT': 'DB12'}
+
+real	0m32,361s
+user	0m31,936s
+sys	0m0,004s
+
+real	0m32,352s
+user	0m31,894s
+sys	0m0,020s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.969999999999999, 'WALL': 15.980000000447035, 'NORM': 15.654351909830934, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.97, 'WALL': 15.969999998807907, 'NORM': 15.654351909830932, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.900000000000002, 'WALL': 15.890000000596046, 'NORM': 15.72327044025157, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.86, 'WALL': 15.859999999403954, 'NORM': 15.762925598991174, 'UNIT': 'DB12'}
+
+real	0m32,376s
+user	0m31,944s
+sys	0m0,004s
+
+real	0m32,373s
+user	0m31,939s
+sys	0m0,012s
+
+real	0m32,383s
+user	0m31,953s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,366s
+user	0m31,844s
+sys	0m0,012s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.95, 'WALL': 15.949999999254942, 'NORM': 15.673981191222571, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.98, 'WALL': 15.980000000447035, 'NORM': 15.644555694618273, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+######
+{'CPU': 15.969999999999999, 'WALL': 15.969999998807907, 'NORM': 15.654351909830934, 'UNIT': 'DB12'}
+WARNING:root:Trying to apply a correction...
+
+real	0m32,381s
+user	0m31,960s
+sys	0m0,005s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+
+real	0m32,387s
+user	0m31,955s
+sys	0m0,012s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Trying to apply a correction...
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.959999999999999, 'WALL': 15.96000000089407, 'NORM': 15.664160401002507, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.980000000000002, 'WALL': 15.990000002086163, 'NORM': 15.644555694618271, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.900000000000002, 'WALL': 15.930000003427267, 'NORM': 15.72327044025157, 'UNIT': 'DB12'}
+
+real	0m32,396s
+user	0m31,963s
+sys	0m0,004s
+
+real	0m32,382s
+user	0m31,945s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.950000000000003, 'WALL': 15.940000001341105, 'NORM': 15.673981191222568, 'UNIT': 'DB12'}
+
+real	0m32,391s
+user	0m31,939s
+sys	0m0,016s
+
+real	0m32,390s
+user	0m31,902s
+sys	0m0,012s
+
+real	0m32,395s
+user	0m31,947s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.99, 'WALL': 15.989999998360872, 'NORM': 15.634771732332707, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.069999999999997, 'WALL': 16.070000000298023, 'NORM': 15.55693839452396, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.009999999999998, 'WALL': 16.0, 'NORM': 15.615240474703313, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.969999999999999, 'WALL': 15.980000000447035, 'NORM': 15.654351909830934, 'UNIT': 'DB12'}
+
+real	0m32,405s
+user	0m31,941s
+sys	0m0,024s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+
+real	0m32,408s
+WARNING:root:Trying to apply a correction...
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+
+real	0m32,418s
+user	0m31,986s
+sys	0m0,008s
+user	0m32,091s
+sys	0m0,004s
+WARNING:root:Trying to apply a correction...
+
+real	0m32,418s
+user	0m31,985s
+sys	0m0,012s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.959999999999999, 'WALL': 15.96000000089407, 'NORM': 15.664160401002507, 'UNIT': 'DB12'}
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.98, 'WALL': 15.980000000447035, 'NORM': 15.644555694618273, 'UNIT': 'DB12'}
+
+real	0m32,407s
+user	0m31,965s
+sys	0m0,008s
+
+real	0m32,425s
+user	0m31,991s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.92, 'WALL': 15.929999999701977, 'NORM': 15.703517587939698, 'UNIT': 'DB12'}
+
+real	0m32,439s
+user	0m31,874s
+sys	0m0,004s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.0, 'WALL': 15.989999998360872, 'NORM': 15.625, 'UNIT': 'DB12'}
+
+real	0m32,464s
+user	0m32,042s
+sys	0m0,008s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.959999999999997, 'WALL': 15.949999999254942, 'NORM': 15.664160401002508, 'UNIT': 'DB12'}
+
+real	0m32,475s
+user	0m32,048s
+sys	0m0,013s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.03, 'WALL': 16.030000001192093, 'NORM': 15.595757953836555, 'UNIT': 'DB12'}
+
+real	0m32,489s
+user	0m32,066s
+sys	0m0,004s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.899999999999999, 'WALL': 16.0, 'NORM': 15.723270440251573, 'UNIT': 'DB12'}
+
+real	0m32,515s
+user	0m31,936s
+sys	0m0,004s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 15.989999999999995, 'WALL': 16.0, 'NORM': 15.634771732332712, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.039999999999992, 'WALL': 16.03999999910593, 'NORM': 15.586034912718212, 'UNIT': 'DB12'}
+
+real	0m32,520s
+user	0m32,065s
+sys	0m0,016s
+
+real	0m32,522s
+user	0m32,058s
+sys	0m0,020s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.000000000000004, 'WALL': 16.0, 'NORM': 15.624999999999996, 'UNIT': 'DB12'}
+
+real	0m32,575s
+user	0m32,138s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.099999999999998, 'WALL': 16.08999999985099, 'NORM': 15.527950310559008, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.079999999999995, 'WALL': 16.070000000298023, 'NORM': 15.547263681592044, 'UNIT': 'DB12'}
+
+real	0m32,600s
+user	0m32,172s
+sys	0m0,004s
+
+real	0m32,590s
+user	0m32,128s
+sys	0m0,020s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.089999999999996, 'WALL': 16.07999999821186, 'NORM': 15.537600994406468, 'UNIT': 'DB12'}
+
+real	0m32,606s
+user	0m32,154s
+sys	0m0,020s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.079999999999995, 'WALL': 16.08999999985099, 'NORM': 15.547263681592044, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+
+real	0m32,639s
+user	0m32,192s
+sys	0m0,020s
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.009999999999998, 'WALL': 16.020000003278255, 'NORM': 15.615240474703313, 'UNIT': 'DB12'}
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.09, 'WALL': 16.100000001490116, 'NORM': 15.537600994406464, 'UNIT': 'DB12'}
+
+real	0m32,650s
+user	0m32,212s
+sys	0m0,012s
+WARNING:root:You are executing DB12 using python3, DB12 score is generally higher than it was with python2
+WARNING:root:Trying to apply a correction...
+WARNING:root:Cannot correct the score, return the raw norm: the python version 3.8 has not been analyzed.
+WARNING:root:Versions available are: 3.9
+WARNING:root:Please consult https://zenodo.org/record/5647834 for further details
+######
+{'CPU': 16.009999999999998, 'WALL': 16.009999997913837, 'NORM': 15.615240474703313, 'UNIT': 'DB12'}
+
+real	0m32,652s
+user	0m32,224s
+sys	0m0,004s
+
+real	0m32,658s
+user	0m32,223s
+sys	0m0,012s

@@ -1,0 +1,896 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+0085
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000085 status : 3.141602
+
+real	3m4,103s
+user	1m59,650s
+sys	0m0,000s
+0006
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000006 status : 3.141605
+
+real	3m7,800s
+user	1m59,697s
+sys	0m0,000s
+0042
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000042 status : 3.141603
+
+real	3m10,936s
+user	2m0,521s
+sys	0m0,000s
+0051
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000051 status : 3.141611
+
+real	3m13,335s
+user	1m59,788s
+sys	0m0,000s
+0122
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000122 status : 3.141600
+
+real	3m18,256s
+user	2m1,063s
+sys	0m0,004s
+0067
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000067 status : 3.141622
+
+real	3m19,053s
+user	2m1,353s
+sys	0m0,008s
+0050
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000050 status : 3.141588
+
+real	3m19,320s
+user	2m1,248s
+sys	0m0,004s
+0016
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000016 status : 3.141575
+
+real	3m20,824s
+user	1m59,812s
+sys	0m0,000s
+0003
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000003 status : 3.141608
+
+real	3m23,330s
+user	1m59,905s
+sys	0m0,004s
+0064
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000064 status : 3.141588
+
+real	3m27,977s
+user	2m0,641s
+sys	0m0,004s
+0108
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000108 status : 3.141611
+
+real	3m30,065s
+user	1m59,882s
+sys	0m0,004s
+0010
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000010 status : 3.141581
+
+real	3m30,277s
+user	2m1,362s
+sys	0m0,004s
+0049
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000049 status : 3.141585
+
+real	3m30,524s
+user	2m1,292s
+sys	0m0,008s
+0028
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000028 status : 3.141610
+
+real	3m32,657s
+user	2m1,303s
+sys	0m0,000s
+0098
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000098 status : 3.141619
+
+real	3m32,699s
+user	2m0,406s
+sys	0m0,008s
+0066
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000066 status : 3.141594
+
+real	3m32,836s
+user	1m59,899s
+sys	0m0,000s
+0015
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000015 status : 3.141598
+
+real	3m33,932s
+user	1m59,874s
+sys	0m0,004s
+0020
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000020 status : 3.141587
+
+real	3m34,069s
+user	1m59,892s
+sys	0m0,000s
+0018
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000018 status : 3.141581
+
+real	3m36,217s
+user	2m1,342s
+sys	0m0,004s
+0097
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000097 status : 3.141595
+
+real	3m37,695s
+user	1m59,933s
+sys	0m0,000s
+0077
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000077 status : 3.141590
+
+real	3m38,252s
+user	2m1,380s
+sys	0m0,000s
+0121
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000121 status : 3.141604
+
+real	3m38,849s
+user	1m59,922s
+sys	0m0,008s
+0094
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000094 status : 3.141588
+
+real	3m39,427s
+user	1m59,975s
+sys	0m0,008s
+0011
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000011 status : 3.141612
+
+real	3m40,106s
+user	1m59,911s
+sys	0m0,000s
+0086
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000086 status : 3.141604
+
+real	3m40,767s
+user	1m59,921s
+sys	0m0,004s
+0114
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000114 status : 3.141602
+
+real	3m41,355s
+user	2m0,092s
+sys	0m0,004s
+0001
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000001 status : 3.141570
+
+real	3m41,454s
+user	1m59,894s
+sys	0m0,000s
+0074
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000074 status : 3.141560
+
+real	3m41,847s
+user	2m1,397s
+sys	0m0,004s
+0037
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000037 status : 3.141571
+
+real	3m44,211s
+user	2m1,421s
+sys	0m0,000s
+0026
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000026 status : 3.141594
+
+real	3m44,314s
+user	1m59,954s
+sys	0m0,000s
+0062
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000062 status : 3.141598
+
+real	3m44,704s
+user	2m0,865s
+sys	0m0,000s
+0030
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000030 status : 3.141617
+
+real	3m44,973s
+user	2m0,243s
+sys	0m0,008s
+0036
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000036 status : 3.141580
+
+real	3m44,989s
+user	2m0,387s
+sys	0m0,000s
+0105
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000105 status : 3.141600
+
+real	3m45,068s
+user	2m0,040s
+sys	0m0,000s
+0032
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000032 status : 3.141567
+
+real	3m45,509s
+user	2m0,047s
+sys	0m0,000s
+0103
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000103 status : 3.141589
+
+real	3m45,597s
+user	2m1,011s
+sys	0m0,000s
+0095
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000095 status : 3.141573
+
+real	3m46,315s
+user	2m0,026s
+sys	0m0,004s
+0110
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000110 status : 3.141601
+
+real	3m46,523s
+user	2m0,039s
+sys	0m0,008s
+0070
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000070 status : 3.141582
+
+real	3m46,590s
+user	2m0,136s
+sys	0m0,000s
+0059
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000059 status : 3.141607
+
+real	3m46,640s
+user	2m0,195s
+sys	0m0,004s
+0088
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000088 status : 3.141602
+
+real	3m46,670s
+user	1m59,976s
+sys	0m0,008s
+0034
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000034 status : 3.141584
+
+real	3m47,200s
+user	2m1,435s
+sys	0m0,000s
+0068
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000068 status : 3.141571
+
+real	3m47,352s
+user	1m59,995s
+sys	0m0,004s
+0124
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000124 status : 3.141606
+
+real	3m47,533s
+user	2m0,007s
+sys	0m0,004s
+0052
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000052 status : 3.141607
+
+real	3m47,624s
+user	2m0,020s
+sys	0m0,004s
+0063
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000063 status : 3.141579
+
+real	3m47,769s
+user	1m59,953s
+sys	0m0,000s
+0111
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000111 status : 3.141579
+
+real	3m47,880s
+user	1m59,959s
+sys	0m0,004s
+0043
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000043 status : 3.141586
+
+real	3m48,107s
+user	2m0,826s
+sys	0m0,004s
+0109
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000109 status : 3.141577
+
+real	3m48,212s
+user	2m0,062s
+sys	0m0,004s
+0061
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000061 status : 3.141590
+
+real	3m48,777s
+user	2m0,769s
+sys	0m0,000s
+0096
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000096 status : 3.141623
+
+real	3m48,927s
+user	2m1,447s
+sys	0m0,004s
+0023
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000023 status : 3.141595
+
+real	3m49,099s
+user	2m0,037s
+sys	0m0,008s
+0080
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000080 status : 3.141575
+
+real	3m49,212s
+user	2m0,682s
+sys	0m0,004s
+0045
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000045 status : 3.141616
+
+real	3m50,655s
+user	2m1,399s
+sys	0m0,004s
+0025
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000025 status : 3.141579
+
+real	3m51,133s
+user	2m1,127s
+sys	0m0,000s
+0102
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000102 status : 3.141607
+
+real	3m51,919s
+user	2m0,095s
+sys	0m0,000s
+0065
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000065 status : 3.141608
+
+real	3m52,209s
+user	2m0,396s
+sys	0m0,004s
+0008
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000008 status : 3.141599
+
+real	3m52,722s
+user	2m0,068s
+sys	0m0,000s
+0084
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000084 status : 3.141613
+
+real	3m52,907s
+user	2m0,580s
+sys	0m0,004s
+0093
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000093 status : 3.141602
+
+real	3m53,608s
+user	2m1,385s
+sys	0m0,000s
+0127
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000127 status : 3.141579
+
+real	3m53,634s
+user	2m1,341s
+sys	0m0,004s
+0044
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000044 status : 3.141585
+
+real	3m53,876s
+user	2m1,152s
+sys	0m0,000s
+0090
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000090 status : 3.141562
+
+real	3m54,168s
+user	2m0,910s
+sys	0m0,004s
+0014
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000014 status : 3.141564
+
+real	3m54,721s
+user	2m0,055s
+sys	0m0,004s
+0024
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000024 status : 3.141616
+
+real	3m54,721s
+user	2m0,432s
+sys	0m0,004s
+0106
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000106 status : 3.141605
+
+real	3m54,724s
+user	2m0,058s
+sys	0m0,000s
+0007
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000007 status : 3.141628
+
+real	3m55,099s
+user	2m0,043s
+sys	0m0,004s
+0089
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000089 status : 3.141580
+
+real	3m55,350s
+user	2m0,246s
+sys	0m0,000s
+0119
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000119 status : 3.141584
+
+real	3m55,533s
+user	2m1,140s
+sys	0m0,004s
+0048
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000048 status : 3.141601
+
+real	3m56,104s
+user	2m0,869s
+sys	0m0,000s
+0035
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000035 status : 3.141584
+
+real	3m56,176s
+user	2m1,527s
+sys	0m0,004s
+0072
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000072 status : 3.141599
+
+real	3m56,347s
+user	2m0,759s
+sys	0m0,004s
+0099
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000099 status : 3.141601
+
+real	3m56,520s
+user	2m0,168s
+sys	0m0,008s
+0075
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000075 status : 3.141605
+
+real	3m56,892s
+user	2m1,405s
+sys	0m0,000s
+0060
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000060 status : 3.141606
+
+real	3m57,020s
+user	2m0,978s
+sys	0m0,004s
+0112
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000112 status : 3.141605
+
+real	3m57,063s
+user	2m0,005s
+sys	0m0,000s
+0126
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000126 status : 3.141619
+
+real	3m57,269s
+user	2m1,433s
+sys	0m0,004s
+0076
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000076 status : 3.141612
+
+real	3m57,883s
+user	2m0,692s
+sys	0m0,004s
+0031
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000031 status : 3.141582
+
+real	3m57,930s
+user	2m0,681s
+sys	0m0,012s
+0091
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000091 status : 3.141576
+
+real	3m58,309s
+user	2m0,586s
+sys	0m0,000s
+0047
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000047 status : 3.141608
+
+real	3m58,374s
+user	2m1,422s
+sys	0m0,004s
+0046
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000046 status : 3.141580
+
+real	3m58,395s
+user	2m1,219s
+sys	0m0,004s
+0100
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000100 status : 3.141579
+
+real	3m58,418s
+user	2m1,466s
+sys	0m0,004s
+0101
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000101 status : 3.141588
+
+real	3m58,487s
+user	2m0,489s
+sys	0m0,004s
+0071
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000071 status : 3.141591
+
+real	3m58,680s
+user	2m1,402s
+sys	0m0,004s
+0117
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000117 status : 3.141579
+
+real	3m58,803s
+user	2m1,340s
+sys	0m0,004s
+0022
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000022 status : 3.141562
+
+real	3m58,919s
+user	1m59,965s
+sys	0m0,008s
+0039
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000039 status : 3.141608
+
+real	3m59,021s
+user	2m1,398s
+sys	0m0,000s
+0123
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000123 status : 3.141590
+
+real	3m59,103s
+user	2m1,401s
+sys	0m0,000s
+0041
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000041 status : 3.141583
+
+real	3m59,247s
+user	2m1,359s
+sys	0m0,000s
+0079
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000079 status : 3.141593
+
+real	3m59,269s
+user	2m1,506s
+sys	0m0,000s
+0000
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000000 status : 3.141563
+
+real	3m59,465s
+user	2m0,055s
+sys	0m0,000s
+0118
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000118 status : 3.141588
+
+real	3m59,780s
+user	2m1,207s
+sys	0m0,004s
+0087
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000087 status : 3.141596
+
+real	3m59,879s
+user	2m0,044s
+sys	0m0,000s
+0055
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000055 status : 3.141599
+
+real	4m0,197s
+user	2m1,500s
+sys	0m0,000s
+0054
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000054 status : 3.141621
+
+real	4m0,506s
+user	2m1,521s
+sys	0m0,000s
+0056
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000056 status : 3.141618
+
+real	4m0,558s
+user	2m1,055s
+sys	0m0,000s
+0058
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000058 status : 3.141566
+
+real	4m0,810s
+user	2m0,764s
+sys	0m0,004s
+0038
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000038 status : 3.141610
+
+real	4m1,056s
+user	2m1,233s
+sys	0m0,000s
+0081
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000081 status : 3.141583
+
+real	4m1,479s
+user	2m1,525s
+sys	0m0,004s
+0017
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000017 status : 3.141572
+
+real	4m1,668s
+user	2m1,029s
+sys	0m0,000s
+0040
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000040 status : 3.141617
+
+real	4m2,227s
+user	2m1,403s
+sys	0m0,004s
+0107
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000107 status : 3.141581
+
+real	4m2,230s
+user	1m59,984s
+sys	0m0,000s
+0027
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000027 status : 3.141581
+
+real	4m2,374s
+user	2m0,343s
+sys	0m0,000s
+0012
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000012 status : 3.141566
+
+real	4m3,051s
+user	2m0,050s
+sys	0m0,004s
+0005
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000005 status : 3.141602
+
+real	4m3,152s
+user	2m0,426s
+sys	0m0,000s
+0083
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000083 status : 3.141582
+
+real	4m3,195s
+user	2m1,381s
+sys	0m0,004s
+0057
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000057 status : 3.141576
+
+real	4m3,310s
+user	2m1,017s
+sys	0m0,000s
+0116
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000116 status : 3.141610
+
+real	4m3,887s
+user	2m0,215s
+sys	0m0,004s
+0029
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000029 status : 3.141558
+
+real	4m3,940s
+user	2m1,199s
+sys	0m0,000s
+0002
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000002 status : 3.141615
+
+real	4m4,319s
+user	2m1,470s
+sys	0m0,000s
+0009
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000009 status : 3.141601
+
+real	4m5,337s
+user	2m1,476s
+sys	0m0,000s
+0033
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000033 status : 3.141590
+
+real	4m5,407s
+user	2m1,523s
+sys	0m0,000s
+0120
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000120 status : 3.141607
+
+real	4m5,513s
+user	2m1,200s
+sys	0m0,008s
+0092
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000092 status : 3.141593
+
+real	4m5,622s
+user	2m1,314s
+sys	0m0,004s
+0104
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000104 status : 3.141592
+
+real	4m6,697s
+user	2m1,219s
+sys	0m0,000s
+0053
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000053 status : 3.141586
+
+real	4m6,810s
+user	2m1,476s
+sys	0m0,000s
+0021
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000021 status : 3.141609
+
+real	4m7,121s
+user	2m1,252s
+sys	0m0,004s
+0073
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000073 status : 3.141599
+
+real	4m7,142s
+user	2m1,443s
+sys	0m0,004s
+0004
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000004 status : 3.141588
+
+real	4m7,209s
+user	2m1,378s
+sys	0m0,000s
+0113
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000113 status : 3.141574
+
+real	4m8,050s
+user	2m1,039s
+sys	0m0,004s
+0125
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000125 status : 3.141572
+
+real	4m8,774s
+user	2m1,266s
+sys	0m0,004s
+0013
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000013 status : 3.141599
+
+real	4m9,571s
+user	2m0,562s
+sys	0m0,004s
+0078
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000078 status : 3.141593
+
+real	4m10,375s
+user	2m0,736s
+sys	0m0,004s
+0115
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000115 status : 3.141596
+
+real	4m10,510s
+user	2m1,497s
+sys	0m0,004s
+0069
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000069 status : 3.141593
+
+real	4m11,294s
+user	2m1,243s
+sys	0m0,004s
+0082
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000082 status : 3.141590
+
+real	4m11,317s
+user	2m1,383s
+sys	0m0,004s
+0019
+pi value for 10 Milliard draw from ../mts-0000-0999/mts000M000019 status : 3.141586
+
+real	4m12,052s
+user	2m1,232s
+sys	0m0,000s
