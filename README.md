@@ -1,4 +1,6 @@
-Two folders: Intel-hpcnodeX-10 and AMD-Node34-40 are providing code and data. 
+**Study of the Simultaneous multi-threading performance at the manycore era, depending on the type of running application, on average computing clusters.**
+-----
+Two folders (Intel-hpcnodeX-10 and AMD-Node34-40) are providing code and data. 
 
 The first one contains experiment done on Intel nodes, and the second one contains experiment done on AMD nodes.
 
@@ -21,7 +23,9 @@ You can make your own choices on how you want to run these scripts and how many 
 For Db12, the program is a Python script, so it does not need any compilation. You will need Python3, and to install DB12 package. You can follow this documentation : https://github.com/DIRACGrid/DB12
 
 For SMA-Covid, use the command “make” to compile the project and generate executable. You will need recent version of g++ compiler. Documentation with a full reproducible environnement will come later in 2024. 
+
 For testMonteCarlo, it is a small C file that needs to be compiled by yourself with a command such as “gcc calculpi.c –O2 –o exe”. 
+
 Finally, for TestU01, you will have to follow the instructions given by L’Ecuyer on the official TestU01 website (http://simul.iro.umontreal.ca/testu01/tu01.html).
 
 If you have any compution problem, you could contact us at: benjamin.antunes@uca.fr
